@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-<img src="tictactoe.png"></img>
+<img src="tictactoe.jpg"></img>
 ## Available Scripts
 
 In the project directory, you can run:
